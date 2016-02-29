@@ -8,3 +8,12 @@ D:\Универ\VisualProg\VisualProg_Lab\vis_lab_1\vis_lab_1\obj\Debug\vis_lab_
 D:\Универ\VisualProg\VisualProg_Lab\vis_lab_1\vis_lab_1\obj\Debug\vis_lab_1.csproj.GenerateResource.Cache
 D:\Универ\VisualProg\VisualProg_Lab\vis_lab_1\vis_lab_1\obj\Debug\vis_lab_1.exe
 D:\Универ\VisualProg\VisualProg_Lab\vis_lab_1\vis_lab_1\obj\Debug\vis_lab_1.pdb
+I:\vis_lab_1\vis_lab_1\bin\Debug\vis_lab_1.exe.config
+I:\vis_lab_1\vis_lab_1\obj\Debug\vis_lab_1.exe
+I:\vis_lab_1\vis_lab_1\obj\Debug\vis_lab_1.pdb
+I:\vis_lab_1\vis_lab_1\bin\Debug\vis_lab_1.exe
+I:\vis_lab_1\vis_lab_1\bin\Debug\vis_lab_1.pdb
+I:\vis_lab_1\vis_lab_1\obj\Debug\vis_lab_1.csprojResolveAssemblyReference.cache
+I:\vis_lab_1\vis_lab_1\obj\Debug\vis_lab_1.Form1.resources
+I:\vis_lab_1\vis_lab_1\obj\Debug\vis_lab_1.Properties.Resources.resources
+I:\vis_lab_1\vis_lab_1\obj\Debug\vis_lab_1.csproj.GenerateResource.Cache
