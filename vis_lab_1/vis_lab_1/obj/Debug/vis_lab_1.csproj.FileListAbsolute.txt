@@ -1,1 +1,10 @@
 D:\vis_lab_1\vis_lab_1\bin\Debug\vis_lab_1.exe.config
+D:\Универ\VisualProg\VisualProg_Lab\vis_lab_1\vis_lab_1\bin\Debug\vis_lab_1.exe.config
+D:\Универ\VisualProg\VisualProg_Lab\vis_lab_1\vis_lab_1\bin\Debug\vis_lab_1.exe
+D:\Универ\VisualProg\VisualProg_Lab\vis_lab_1\vis_lab_1\bin\Debug\vis_lab_1.pdb
+D:\Универ\VisualProg\VisualProg_Lab\vis_lab_1\vis_lab_1\obj\Debug\vis_lab_1.csprojResolveAssemblyReference.cache
+D:\Универ\VisualProg\VisualProg_Lab\vis_lab_1\vis_lab_1\obj\Debug\vis_lab_1.Form1.resources
+D:\Универ\VisualProg\VisualProg_Lab\vis_lab_1\vis_lab_1\obj\Debug\vis_lab_1.Properties.Resources.resources
+D:\Универ\VisualProg\VisualProg_Lab\vis_lab_1\vis_lab_1\obj\Debug\vis_lab_1.csproj.GenerateResource.Cache
+D:\Универ\VisualProg\VisualProg_Lab\vis_lab_1\vis_lab_1\obj\Debug\vis_lab_1.exe
+D:\Универ\VisualProg\VisualProg_Lab\vis_lab_1\vis_lab_1\obj\Debug\vis_lab_1.pdb

@@ -16,5 +16,12 @@ namespace vis_lab_1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            String str = textBox1.Text;
+            String str2 = new string(str.Distinct().ToArray());
+            textBox2.Text = str2;
+        }
     }
 }
